@@ -40,7 +40,7 @@
 
 ## 💻 Programming Skills
 - Development of applications using Java and Spring Framework.
-- Data analysis using Python, including Pandas and NumPy for data manipulation and visualization.
+- Creation of scripts and automation with Python.
 - Database modeling and manipulation with SQL.
 
 ## 🤝 Let's Connect!
