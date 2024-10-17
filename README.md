@@ -47,6 +47,6 @@
 I'm always open to collaborations and new opportunities. If you share similar interests or have project ideas, feel free to reach out!
 
 <div>
-  <img alt="Geova-Linkedin" height="30" href="https://www.linkedin.com/in/geova-junior-hermenegildo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img alt="Geova-Discord" height="30" href="https://discord.com/users/geovajh" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/geova-junior-hermenegildo" target="_blank"><img alt="Geova-Linkedin" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/geovajh" target="_blank"><img alt="Geova-Discord" height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
